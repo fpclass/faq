@@ -4,3 +4,4 @@ This repository contains Frequently Asked Questions related to CS141 and their a
 
 - [Windows-related issues](Windows.md)
 - [Large Arithmetic Collider](LargeArithmeticCollider.md)
+- [Lab - Recursive Data Types](RecursiveDataTypes.md)
